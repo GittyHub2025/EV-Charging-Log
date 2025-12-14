@@ -1,0 +1,5 @@
+{
+  "name": "BYD Smart Charge Planner",
+  "description": "An intelligent EV charging calculator that helps you time your charge completion based on current battery levels and specific AC current settings. Features Singapore time synchronization and AI-powered charging advice.",
+  "requestFramePermissions": []
+}
